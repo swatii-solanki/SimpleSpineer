@@ -17,16 +17,3 @@ public class BeerExpert {
         return brands;
     }
 }
-
-/*
-Name - Swati Solanki
-Designation - Android Developer
-Good Knowledge of Java Programming knowledge
-Experience in designing and developing of android application
-Familiarity with Restful APIs to android application connect to Back-end services
-Experience in integrating third party libraries
-Integrated google play services and Google Maps API
-Knowledge of JetPack components such as Data Binding, Navigation Component,Live Data,View Model etc.
-Knowledge of GIT Version control systems
-Knowledge of firebase
-*/
